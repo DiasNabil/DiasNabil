@@ -6,5 +6,5 @@ A passionate tester, I'm currently expanding my skillset with three.js alongside
 My expertise includes:
 - Interface design (Figma)
 - Front-end development (Next.js, Tailwind CSS, Sanity)
-- Web3 onboarding / Smart contracts (Solidity, Vie.js, Wagmi)
+- Web3 onboarding / Smart contracts (Solidity, Viem, Wagmi)
 
